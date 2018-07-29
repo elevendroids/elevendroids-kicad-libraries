@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP E01-ML01IPX
+D nRF24L01+ SMD module with IPX antenna connector
+K nRF24L01 RF
+$ENDCMP
+#
+$CMP E01-ML01S
+D nRF24L01+ SMD module with PCB antenna
+$ENDCMP
+#
+#End Doc Library
