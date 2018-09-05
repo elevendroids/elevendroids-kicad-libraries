@@ -1,4 +1,4 @@
-(module E01-ML01S (layer F.Cu) (tedit 5B5E0294)
+(module E01-ML01S (layer F.Cu) (tedit 5B66F845)
   (descr "nRF24L01+ SMD Module")
   (tags "Radio nRF24L01 RF Module")
   (attr smd)
