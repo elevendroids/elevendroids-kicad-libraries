@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS78218DDC
+D 150 mA, 500 nA Iq, Ultra-Low Quiescent Current, Low-Dropout Linear Regulator
+K LDO Voltage Regulator 150mA
+$ENDCMP
+#
+$CMP TPS78218DRV
+D 150 mA, 500 nA Iq, Ultra-Low Quiescent Current, Low-Dropout Linear Regulator
+K LDO Voltage Regulator 150mA
+$ENDCMP
+#
+#End Doc Library
