@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC244
+D 8-bit Buffer/Line Driver 3-state
+K TTL BUFFER 3State
+F http://www.nxp.com/documents/data_sheet/74HC_HCT244.pdf
+$ENDCMP
+#
+$CMP 74HCT244
+D 8-bit Buffer/Line Driver 3-state
+K TTL BUFFER 3State
+F http://www.nxp.com/documents/data_sheet/74HC_HCT244.pdf
+$ENDCMP
+#
+#End Doc Library
