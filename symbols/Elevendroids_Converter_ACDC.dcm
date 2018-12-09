@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HLK-PM01
+D 5V 3W miniature AC-DC module-type power supply Hi-Link
+$ENDCMP
+#
+$CMP HLK-PM03
+D 3.3V 3W miniature AC-DC module-type power supply Hi-Link
+$ENDCMP
+#
+$CMP HLK-PM12
+D 12V 3W miniature AC-DC module-type power supply Hi-Link
+$ENDCMP
+#
+$CMP HLK-PM24
+D 24V 3W miniature AC-DC module-type power supply Hi-Link
+$ENDCMP
+#
+#End Doc Library
