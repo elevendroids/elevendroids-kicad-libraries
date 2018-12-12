@@ -1,4 +1,4 @@
-(module E01-ML01IPX (layer F.Cu) (tedit 5C0EEB6F)
+(module E01-ML01IPX (layer F.Cu) (tedit 5C117DAB)
   (descr "nRF24L01+ SMD Module")
   (tags "Radio nRF24L01 RF Module")
   (attr smd)
@@ -41,6 +41,7 @@
   (fp_line (start -3.7 -12.7) (end -3.7 -15.3) (layer F.Fab) (width 0.1))
   (fp_circle (center -5.4 -0.1) (end -5.1 -0.1) (layer F.Fab) (width 0.1))
   (fp_circle (center -2.4 -14) (end -1.4 -14) (layer F.Fab) (width 0.1))
+  (fp_circle (center -2.4 -14) (end -2.15 -14) (layer F.Fab) (width 0.1))
   (pad 1 smd rect (at -4.445 0) (size 0.85 3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -3.175 0) (size 0.85 3) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.905 0) (size 0.85 3) (layers F.Cu F.Paste F.Mask))
