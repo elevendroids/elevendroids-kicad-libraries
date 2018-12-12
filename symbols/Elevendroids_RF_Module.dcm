@@ -2,11 +2,20 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP E01-ML01IPX
 D nRF24L01+ SMD module with IPX antenna connector
-K nRF24L01 RF
+K low power radio module nRF24L01
+F http://www.cdebyte.net/uploads/E01-ML01IPX_EN.zip
 $ENDCMP
 #
 $CMP E01-ML01S
 D nRF24L01+ SMD module with PCB antenna
+K low power radio module nRF24L01
+F http://www.cdebyte.net/uploads/E01-ML01S_EN.zip
+$ENDCMP
+#
+$CMP E01-ML01SP4
+D nRF24L01+ with PA SMD module with IPX antenna connector
+K low power radio module nRF24L01
+F http://www.cdebyte.net/e01-ml01sp4.html
 $ENDCMP
 #
 #End Doc Library
