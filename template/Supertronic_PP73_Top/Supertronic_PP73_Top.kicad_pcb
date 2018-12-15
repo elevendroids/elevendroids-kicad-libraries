@@ -1,8 +1,8 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.0.1-1.fc29)
+(kicad_pcb (version 20171130) (host pcbnew 5.0.2-1.fc29)
 
   (general
     (thickness 1.6)
-    (drawings 8)
+    (drawings 11)
     (tracks 0)
     (zones 0)
     (modules 4)
@@ -59,7 +59,8 @@
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
-    (aux_axis_origin 0 0)
+    (aux_axis_origin 115 125)
+    (grid_origin 115 125)
     (visible_elements FFFFFF7F)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
@@ -101,12 +102,12 @@
     (uvia_drill 0.1)
   )
 
-  (module MountingHole:MountingHole_3.2mm_M3 locked (layer F.Cu) (tedit 5C0D1DB6) (tstamp 5C0D2146)
-    (at 122 120)
+  (module MountingHole:MountingHole_3.2mm_M3 locked (layer F.Cu) (tedit 5C155981) (tstamp 5C0D2146)
+    (at 121 119)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.2) (layer F.SilkS) hide
+    (fp_text reference H4 (at 0 -4.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole_3.2mm_M3 (at 0 4.2) (layer F.Fab) hide
@@ -120,12 +121,12 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   )
 
-  (module MountingHole:MountingHole_3.2mm_M3 locked (layer F.Cu) (tedit 5C0D1DBD) (tstamp 5C0D2138)
-    (at 170 120)
+  (module MountingHole:MountingHole_3.2mm_M3 locked (layer F.Cu) (tedit 5C155987) (tstamp 5C0D2138)
+    (at 169 119)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.2) (layer F.SilkS) hide
+    (fp_text reference H3 (at 0 -4.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole_3.2mm_M3 (at 0 4.2) (layer F.Fab) hide
@@ -139,12 +140,12 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   )
 
-  (module MountingHole:MountingHole_3.2mm_M3 locked (layer F.Cu) (tedit 5C0D1DAD) (tstamp 5C0D2110)
-    (at 122 72)
+  (module MountingHole:MountingHole_3.2mm_M3 locked (layer F.Cu) (tedit 5C155970) (tstamp 5C0D2110)
+    (at 121 71)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.2) (layer F.SilkS) hide
+    (fp_text reference H1 (at 0 -4.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole_3.2mm_M3 (at 0 4.2) (layer F.Fab) hide
@@ -158,12 +159,12 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   )
 
-  (module MountingHole:MountingHole_3.2mm_M3 locked (layer F.Cu) (tedit 5C0D1DA2) (tstamp 5C0D211F)
-    (at 170 72)
+  (module MountingHole:MountingHole_3.2mm_M3 locked (layer F.Cu) (tedit 5C155976) (tstamp 5C0D211F)
+    (at 169 71)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr virtual)
-    (fp_text reference REF** (at 0 -4.2) (layer F.SilkS) hide
+    (fp_text reference H2 (at 0 -4.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole_3.2mm_M3 (at 0 4.2) (layer F.Fab) hide
@@ -177,13 +178,49 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
   )
 
-  (gr_arc (start 122 72) (end 122 67) (angle -90) (layer Edge.Cuts) (width 0.15))
-  (gr_arc (start 122 120) (end 117 120) (angle -90) (layer Edge.Cuts) (width 0.15))
-  (gr_arc (start 170 120) (end 170 125) (angle -90) (layer Edge.Cuts) (width 0.15))
-  (gr_arc (start 170 72) (end 175 72) (angle -90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 117 120) (end 117 72) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 170 125) (end 122 125) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 175 72) (end 175 120) (layer Edge.Cuts) (width 0.15) (tstamp 5C0D2352))
-  (gr_line (start 122 67) (end 170 67) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 169 71) (end 175 71) (angle -90) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 121 71) (end 121 65) (angle -90) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 121 119) (end 115 119) (angle -90) (layer Edge.Cuts) (width 0.15))
+  (gr_arc (start 169 119) (end 169 125) (angle -90) (layer Edge.Cuts) (width 0.15))
+  (dimension 60 (width 0.3) (layer Dwgs.User)
+    (gr_text "60.000 mm" (at 182.1 95 270) (layer Dwgs.User)
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    )
+    (feature1 (pts (xy 169 125) (xy 180.586421 125)))
+    (feature2 (pts (xy 169 65) (xy 180.586421 65)))
+    (crossbar (pts (xy 180 65) (xy 180 125)))
+    (arrow1a (pts (xy 180 125) (xy 179.413579 123.873496)))
+    (arrow1b (pts (xy 180 125) (xy 180.586421 123.873496)))
+    (arrow2a (pts (xy 180 65) (xy 179.413579 66.126504)))
+    (arrow2b (pts (xy 180 65) (xy 180.586421 66.126504)))
+  )
+  (dimension 60 (width 0.3) (layer Dwgs.User)
+    (gr_text "60.000 mm" (at 145 53.9) (layer Dwgs.User)
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    )
+    (feature1 (pts (xy 175 71) (xy 175 55.413579)))
+    (feature2 (pts (xy 115 71) (xy 115 55.413579)))
+    (crossbar (pts (xy 115 56) (xy 175 56)))
+    (arrow1a (pts (xy 175 56) (xy 173.873496 56.586421)))
+    (arrow1b (pts (xy 175 56) (xy 173.873496 55.413579)))
+    (arrow2a (pts (xy 115 56) (xy 116.126504 56.586421)))
+    (arrow2b (pts (xy 115 56) (xy 116.126504 55.413579)))
+  )
+  (dimension 48 (width 0.3) (layer Dwgs.User)
+    (gr_text "48.000 mm" (at 145 58.9) (layer Dwgs.User)
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    )
+    (feature1 (pts (xy 169 71) (xy 169 60.413579)))
+    (feature2 (pts (xy 121 71) (xy 121 60.413579)))
+    (crossbar (pts (xy 121 61) (xy 169 61)))
+    (arrow1a (pts (xy 169 61) (xy 167.873496 61.586421)))
+    (arrow1b (pts (xy 169 61) (xy 167.873496 60.413579)))
+    (arrow2a (pts (xy 121 61) (xy 122.126504 61.586421)))
+    (arrow2b (pts (xy 121 61) (xy 122.126504 60.413579)))
+  )
+  (gr_line (start 115 119) (end 115 71) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 169 125) (end 121 125) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 175 71) (end 175 119) (layer Edge.Cuts) (width 0.15) (tstamp 5C0D2352))
+  (gr_line (start 121 65) (end 169 65) (layer Edge.Cuts) (width 0.15))
 
 )
