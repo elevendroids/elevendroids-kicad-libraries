@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32L010F4Px
+D ARM Cortex-M0+ MCU, 16KB flash, 2KB RAM, 32MHz, 1.8-3.6V, 16 GPIO, TSSOP-20
+K ARM Cortex-M0+ STM32L0 STM32L0x0
+F https://www.st.com/resource/en/datasheet/stm32l010f4.pdf
+$ENDCMP
+#
+$CMP STM32L010K4Tx
+D ARM Cortex-M0+ MCU, 16KB flash, 2KB RAM, 32MHz, 1.8-3.6V, 26 GPIO, LQFP-32
+K ARM Cortex-M0+ STM32L0 STM32L0x0
+F https://www.st.com/resource/en/datasheet/stm32l010k4.pdf
+$ENDCMP
+#
+$CMP STM32L010K8Tx
+D ARM Cortex-M0+ MCU, 64KB flash, 8KB RAM, 32MHz, 1.8-3.6V, 25 GPIO, LQFP-32
+K ARM Cortex-M0+ STM32L0 STM32L0x0
+F https://www.st.com/resource/en/datasheet/stm32l010k8.pdf
+$ENDCMP
+#
+$CMP STM32L010R8Tx
+D ARM Cortex-M0+ MCU, 64KB flash, 8KB RAM, 32MHz, 1.8-3.6V, 51 GPIO, LQFP-64
+K ARM Cortex-M0+ STM32L0 STM32L0x0
+F https://www.st.com/resource/en/datasheet/stm32l010r8.pdf
+$ENDCMP
+#
+#End Doc Library
