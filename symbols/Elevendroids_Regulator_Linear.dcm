@@ -162,4 +162,142 @@ K LDO Voltage Regulator 150mA
 F http://www.ti.com/lit/ds/symlink/tps782.pdf
 $ENDCMP
 #
+$CMP TPS7A0210PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 1.0 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0212PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 1.2 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0215PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 1.5 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0215PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 1.5 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A02185PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 1.85 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0218PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 1.8 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0218PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 1.8 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0220PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 2.0 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0220PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 2.0 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0222PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 2.2 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0222PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 2.2 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0223PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 2.3 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0223PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 2.3 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0225PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 2.5 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0225PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 2.5 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0228PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 2.8 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0228PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 2.8 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0230PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 3.0 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0230PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 3.0 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0231PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 3.1 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0233PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 3.3 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0233PDQN
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 3.3 V, X2SON-4
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
+$CMP TPS7A0236PDBV
+D 200 mA, 25 nA Iq, Nanopower, Low-Dropout Linear Regulator, 3.6 V, SOT-23-5
+K LDO Voltage Regulator 200mA
+F https://www.ti.com/lit/ds/symlink/tps7a02.pdf
+$ENDCMP
+#
 #End Doc Library
