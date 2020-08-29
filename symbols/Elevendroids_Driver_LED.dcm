@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9634BS
+D 8-bit PWM Fm+ I2C-bus LED driver, TQFN-20
+K led pwm rgb rgba
+F https://www.nxp.com/docs/en/data-sheet/PCA9634.pdf
+$ENDCMP
+#
+$CMP PCA9634D
+D 8-bit PWM Fm+ I2C-bus LED driver, SOIC-20
+K led pwm rgb rgba
+F https://www.nxp.com/docs/en/data-sheet/PCA9634.pdf
+$ENDCMP
+#
+$CMP PCA9634PW
+D 8-bit PWM Fm+ I2C-bus LED driver, TSSOP-20
+K led pwm rgb rgba
+F https://www.nxp.com/docs/en/data-sheet/PCA9634.pdf
+$ENDCMP
+#
+#End Doc Library
