@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AVC4T774PW
+D 4-Bit Dual Supply Translating Transceiver, 3-state, 0.8 - 3.6V, TSSOP-16
+K Level-Shifter
+F https://assets.nexperia.com/documents/data-sheet/74AVC4T774PW.pdf
+$ENDCMP
+#
+#End Doc Library
