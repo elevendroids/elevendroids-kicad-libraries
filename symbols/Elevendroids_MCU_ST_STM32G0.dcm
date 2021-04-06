@@ -314,13 +314,13 @@ $ENDCMP
 #
 $CMP STM32G071R8Tx
 D ARM Cortex-M0+ MCU, 64KB Flash, 36KB RAM, 64MHz, 1.7-3.6V, 60 GPIO, LQFP-64
-K ARM Cortex-M0+ STM32G0 STM32G07x1
+K ARM Cortex-M0+ STM32G0 STM32G0x1
 F https://www.st.com/resource/en/datasheet/stm32g071r8.pdf
 $ENDCMP
 #
 $CMP STM32G071RBTx
 D ARM Cortex-M0+ MCU, 128KB Flash, 36KB RAM, 64MHz, 1.7-3.6V, 60 GPIO, LQFP-64
-K ARM Cortex-M0+ STM32G0 STM32G07x1
+K ARM Cortex-M0+ STM32G0 STM32G0x1
 F https://www.st.com/resource/en/datasheet/stm32g071rb.pdf
 $ENDCMP
 #
@@ -356,8 +356,116 @@ $ENDCMP
 #
 $CMP STM32G081RBTx
 D ARM Cortex-M0+ MCU, AES, 128KB Flash, 36KB RAM, 64MHz, 1.7-3.6V, 60 GPIO, LQFP-64
-K ARM Cortex-M0+ STM32G0 STM32G07x1
+K ARM Cortex-M0+ STM32G0 STM32G0x1
 F https://www.st.com/resource/en/datasheet/stm32g081rb.pdf
+$ENDCMP
+#
+$CMP STM32G0B0CETx
+D ARM Cortex-M0+ MCU, 512KB Flash, 144KB RAM, 64MHz, 2.0-3.6V, 43 GPIO, LQFP-48
+K ARM Cortex-M0+ STM32G0 STM32G0x0
+F https://www.st.com/resource/en/datasheet/stm32g0b0ce.pdf
+$ENDCMP
+#
+$CMP STM32G0B0KETx
+D ARM Cortex-M0+ MCU, 512KB Flash, 144KB RAM, 64MHz, 2.0-3.6V, 29 GPIO, LQFP-32
+K ARM Cortex-M0+ STM32G0 STM32G0x0
+F https://www.st.com/resource/en/datasheet/stm32g0b0ke.pdf
+$ENDCMP
+#
+$CMP STM32G0B0RETx
+D ARM Cortex-M0+ MCU, 512KB Flash, 144KB RAM, 64MHz, 2.0-3.6V, 59 GPIO, LQFP-64
+K ARM Cortex-M0+ STM32G0 STM32G0x0
+F https://www.st.com/resource/en/datasheet/stm32g0b0re.pdf
+$ENDCMP
+#
+$CMP STM32G0B1KBTx
+D ARM Cortex-M0+ MCU, 128KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 30 GPIO, LQFP-32
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0b1kb.pdf
+$ENDCMP
+#
+$CMP STM32G0B1KBUx
+D ARM Cortex-M0+ MCU, 128KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 30 GPIO, UFQFPN-32
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0b1kb.pdf
+$ENDCMP
+#
+$CMP STM32G0B1KCTx
+D ARM Cortex-M0+ MCU, 256KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 30 GPIO, LQFP-32
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0b1kc.pdf
+$ENDCMP
+#
+$CMP STM32G0B1KCUx
+D ARM Cortex-M0+ MCU, 256KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 30 GPIO, UFQFPN-32
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0b1kc.pdf
+$ENDCMP
+#
+$CMP STM32G0B1KETx
+D ARM Cortex-M0+ MCU, 512KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 30 GPIO, LQFP-32
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0b1ke.pdf
+$ENDCMP
+#
+$CMP STM32G0B1KEUx
+D ARM Cortex-M0+ MCU, 512KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 30 GPIO, UFQFPN-32
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0b1ke.pdf
+$ENDCMP
+#
+$CMP STM32G0B1RBTx
+D ARM Cortex-M0+ MCU, 128KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 60 GPIO, LQFP-64
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0b1rb.pdf
+$ENDCMP
+#
+$CMP STM32G0B1RCTx
+D ARM Cortex-M0+ MCU, 256KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 60 GPIO, LQFP-64
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0b1rc.pdf
+$ENDCMP
+#
+$CMP STM32G0B1RETx
+D ARM Cortex-M0+ MCU, 512KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 60 GPIO, LQFP-64
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0b1re.pdf
+$ENDCMP
+#
+$CMP STM32G0C1KCTx
+D ARM Cortex-M0+ MCU, AES, 512KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 30 GPIO, LQFP-32
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0c1kc.pdf
+$ENDCMP
+#
+$CMP STM32G0C1KCUx
+D ARM Cortex-M0+ MCU, AES, 256KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 30 GPIO, UFQFPN-32
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0c1kc.pdf
+$ENDCMP
+#
+$CMP STM32G0C1KETx
+D ARM Cortex-M0+ MCU, AES, 512KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 30 GPIO, LQFP-32
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0c1ke.pdf
+$ENDCMP
+#
+$CMP STM32G0C1KEUx
+D ARM Cortex-M0+ MCU, AES, 512KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 30 GPIO, UFQFPN-32
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0c1ke.pdf
+$ENDCMP
+#
+$CMP STM32G0C1RCTx
+D ARM Cortex-M0+ MCU, 512KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 60 GPIO, LQFP-64
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0c1rc.pdf
+$ENDCMP
+#
+$CMP STM32G0C1RETx
+D ARM Cortex-M0+ MCU, AES, 512KB Flash, 144KB RAM, 64MHz, 1.7-3.6V, 60 GPIO, LQFP-64
+K ARM Cortex-M0+ STM32G0 STM32G0x1
+F https://www.st.com/resource/en/datasheet/stm32g0c1re.pdf
 $ENDCMP
 #
 #End Doc Library

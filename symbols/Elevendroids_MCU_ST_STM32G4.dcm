@@ -48,4 +48,40 @@ K ARM Cortex-M4+ STM32G4 STM32G4x1
 F https://www.st.com/resource/en/datasheet/stm32g441kb.pdf
 $ENDCMP
 #
+$CMP STM32G491KCTx
+D ARM Cortex-M4+ MCU, 256kB Flash, 112kB RAM, 170MHz, 1.71-3.6V, 26 GPIO, LQFP-32
+K ARM Cortex-M4+ STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g491kc.pdf
+$ENDCMP
+#
+$CMP STM32G491KCUx
+D ARM Cortex-M4+ MCU, 256kB Flash, 112kB RAM, 170MHz, 1.71-3.6V, 26 GPIO, UFQFPN-32
+K ARM Cortex-M4+ STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g491kc.pdf
+$ENDCMP
+#
+$CMP STM32G491KETx
+D ARM Cortex-M4+ MCU, 512kB Flash, 112kB RAM, 170MHz, 1.71-3.6V, 26 GPIO, LQFP-32
+K ARM Cortex-M4+ STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g491ke.pdf
+$ENDCMP
+#
+$CMP STM32G491KEUx
+D ARM Cortex-M4+ MCU, 512kB Flash, 112kB RAM, 170MHz, 1.71-3.6V, 26 GPIO, UFQFPN-32
+K ARM Cortex-M4+ STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g4a1ke.pdf
+$ENDCMP
+#
+$CMP STM32G4A1KETx
+D ARM Cortex-M4+ MCU, 512kB Flash, 112kB RAM, 170MHz, 1.71-3.6V, 26 GPIO, LQFP-32
+K ARM Cortex-M4+ STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g491ke.pdf
+$ENDCMP
+#
+$CMP STM32G4A1KEUx
+D ARM Cortex-M4+ MCU, AES, 512kB Flash, 112kB RAM, 170MHz, 1.71-3.6V, 26 GPIO, UFQFPN-32
+K ARM Cortex-M4+ STM32G4 STM32G4x1
+F https://www.st.com/resource/en/datasheet/stm32g4a1ke.pdf
+$ENDCMP
+#
 #End Doc Library
