@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP1623-xCH
+D Low-Voltage Input Boost Regulator, 2.0V-5.5V, PWM, SOT-23-6
+K boost regulator pwm
+F https://ww1.microchip.com/downloads/en/DeviceDoc/40001420D.pdf
+$ENDCMP
+#
+$CMP MCP1623-xMC
+D Low-Voltage Input Boost Regulator, 2.0V-5.5V, PWM, DFN-8
+K boost regulator pwm
+F https://ww1.microchip.com/downloads/en/DeviceDoc/40001420D.pdf
+$ENDCMP
+#
+$CMP MCP1624-xCH
+D Low-Voltage Input Boost Regulator, 2.0V-5.5V, PFM/PWM, SOT-23-6
+K boost regulator pfm pwm
+F https://ww1.microchip.com/downloads/en/DeviceDoc/40001420D.pdf
+$ENDCMP
+#
+$CMP MCP1624-xMC
+D Low-Voltage Input Boost Regulator, 2.0V-5.5V, PFM/PWM, DFN-8
+K boost regulator pfm pwm
+F https://ww1.microchip.com/downloads/en/DeviceDoc/40001420D.pdf
+$ENDCMP
+#
+#End Doc Library
