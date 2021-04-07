@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSP430FR2422IPW16
+D 7kB + 256B FRAM, 2kB RAM, TSSOP-16
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2422.pdf
+$ENDCMP
+#
+$CMP MSP430FR2422IRHL
+D 7kB + 256B FRAM, 2kB RAM, VQFN-20
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2422.pdf
+$ENDCMP
+#
+$CMP MSP430FR2433IRGE
+D 15kB + 512B FRAM, 4kB SRAM, QFN-24
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2433.pdf
+$ENDCMP
+#
+#End Doc Library
