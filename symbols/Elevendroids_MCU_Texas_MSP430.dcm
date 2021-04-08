@@ -1,13 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP MSP430FR2422IPW16
-D 7kB + 256B FRAM, 2kB RAM, TSSOP-16
+D 7kB + 256B FRAM, 2kB SRAM, TSSOP-16
 K TI MSP430 16-bit mixed signal microcontroller
 F https://www.ti.com/lit/ds/symlink/msp430fr2422.pdf
 $ENDCMP
 #
 $CMP MSP430FR2422IRHL
-D 7kB + 256B FRAM, 2kB RAM, VQFN-20
+D 7kB + 256B FRAM, 2kB SRAM, VQFN-20
 K TI MSP430 16-bit mixed signal microcontroller
 F https://www.ti.com/lit/ds/symlink/msp430fr2422.pdf
 $ENDCMP
@@ -16,6 +16,60 @@ $CMP MSP430FR2433IRGE
 D 15kB + 512B FRAM, 4kB SRAM, QFN-24
 K TI MSP430 16-bit mixed signal microcontroller
 F https://www.ti.com/lit/ds/symlink/msp430fr2433.pdf
+$ENDCMP
+#
+$CMP MSP430FR4131IG48
+D 4kB + 512B FRAM, 512B SRAM, TSSOP-48
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr4131.pdf
+$ENDCMP
+#
+$CMP MSP430FR4131IG56
+D 4kB + 512B FRAM, 512B SRAM, TSSOP-56
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr4131.pdf
+$ENDCMP
+#
+$CMP MSP430FR4131IPMR
+D 4kB + 512B FRAM, 512B SRAM, LQFP-64
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr4131.pdf
+$ENDCMP
+#
+$CMP MSP430FR4132IG48
+D 8kB + 512B FRAM, 1kB SRAM, TSSOP-48
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr4132.pdf
+$ENDCMP
+#
+$CMP MSP430FR4132IG56
+D 8kB + 512B FRAM, 1kB SRAM, TSSOP-56
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr4132.pdf
+$ENDCMP
+#
+$CMP MSP430FR4132IPMR
+D 8kB + 512B FRAM, 1kB SRAM, LQFP-64
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr4132.pdf
+$ENDCMP
+#
+$CMP MSP430FR4133IG48
+D 15kB + 512B FRAM, 2kB SRAM, TSSOP-48
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr4133.pdf
+$ENDCMP
+#
+$CMP MSP430FR4133IG56
+D 15kB + 512B FRAM, 2kB SRAM, TSSOP-56
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr4133.pdf
+$ENDCMP
+#
+$CMP MSP430FR4133IPMR
+D 15kB + 512B FRAM, 2kB SRAM, LQFP-64
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr4133.pdf
 $ENDCMP
 #
 #End Doc Library
