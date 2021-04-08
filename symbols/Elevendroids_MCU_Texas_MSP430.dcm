@@ -1,5 +1,41 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MSP430FR2310IPW16
+D 2kB FRAM, 1kB SRAM, TSSOP-16
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2310.pdf
+$ENDCMP
+#
+$CMP MSP430FR2310IPW20
+D 2kB FRAM, 1kB SRAM, TSSOP-20
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2310.pdf
+$ENDCMP
+#
+$CMP MSP430FR2310IRGY
+D 2kB FRAM, 1kB SRAM, Texas R-PVQFN-N16
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2310.pdf
+$ENDCMP
+#
+$CMP MSP430FR2311IPW16
+D 3.75kB FRAM, 1kB SRAM, TSSOP-16
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2311.pdf
+$ENDCMP
+#
+$CMP MSP430FR2311IPW20
+D 3.75kB FRAM, 1kB SRAM, TSSOP-20
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2311.pdf
+$ENDCMP
+#
+$CMP MSP430FR2311IRGY
+D 3.75kB FRAM, 1kB SRAM, Texas R-PVQFN-N16
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2311.pdf
+$ENDCMP
+#
 $CMP MSP430FR2422IPW16
 D 7kB + 256B FRAM, 2kB SRAM, TSSOP-16
 K TI MSP430 16-bit mixed signal microcontroller
