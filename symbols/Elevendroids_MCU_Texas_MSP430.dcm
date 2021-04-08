@@ -48,6 +48,54 @@ K TI MSP430 16-bit mixed signal microcontroller
 F https://www.ti.com/lit/ds/symlink/msp430fr2111.pdf
 $ENDCMP
 #
+$CMP MSP430FR2153DBT
+D 16kB + 512B FRAM, 2kB SRAM, TSSOP-38
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2153.pdf
+$ENDCMP
+#
+$CMP MSP430FR2153PT
+D 16kB + 512B FRAM, 2kB SRAM, LQFP-48
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2153.pdf
+$ENDCMP
+#
+$CMP MSP430FR2153RHA
+D 16kB + 512B FRAM, 2kB SRAM, VQFN-40
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2153.pdf
+$ENDCMP
+#
+$CMP MSP430FR2153RSM
+D 16kB + 512B FRAM, 2kB SRAM, VQFN-32
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2153.pdf
+$ENDCMP
+#
+$CMP MSP430FR2155DBT
+D 32kB + 512B FRAM, 4kB SRAM, TSSOP-38
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2155.pdf
+$ENDCMP
+#
+$CMP MSP430FR2155PT
+D 32kB + 512B FRAM, 4kB SRAM, LQFP-48
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2155.pdf
+$ENDCMP
+#
+$CMP MSP430FR2155RHA
+D 32kB + 512B FRAM, 4kB SRAM, VQFN-40
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2155.pdf
+$ENDCMP
+#
+$CMP MSP430FR2155RSM
+D 32kB + 512B FRAM, 4kB SRAM, VQFN-32
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2155.pdf
+$ENDCMP
+#
 $CMP MSP430FR2310IPW16
 D 2kB FRAM, 1kB SRAM, TSSOP-16
 K TI MSP430 16-bit mixed signal microcontroller
@@ -82,6 +130,42 @@ $CMP MSP430FR2311IRGY
 D 3.75kB FRAM, 1kB SRAM, Texas R-PVQFN-N16
 K TI MSP430 16-bit mixed signal microcontroller
 F https://www.ti.com/lit/ds/symlink/msp430fr2311.pdf
+$ENDCMP
+#
+$CMP MSP430FR2353DBT
+D 16kB + 512B FRAM, 2kB SRAM, TSSOP-38
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2353.pdf
+$ENDCMP
+#
+$CMP MSP430FR2353PT
+D 16kB + 512B FRAM, 2kB SRAM, LQFP-48
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2353.pdf
+$ENDCMP
+#
+$CMP MSP430FR2353RSM
+D 16kB + 512B FRAM, 2kB SRAM, VQFN-32
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2353.pdf
+$ENDCMP
+#
+$CMP MSP430FR2355DBT
+D 32kB + 512B FRAM, 4kB SRAM, TSSOP-38
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2355.pdf
+$ENDCMP
+#
+$CMP MSP430FR2355PT
+D 32kB + 512B FRAM, 4kB SRAM, LQFP-48
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2355.pdf
+$ENDCMP
+#
+$CMP MSP430FR2355RSM
+D 32kB + 512B FRAM, 4kB SRAM, VQFN-32
+K TI MSP430 16-bit mixed signal microcontroller
+F https://www.ti.com/lit/ds/symlink/msp430fr2355.pdf
 $ENDCMP
 #
 $CMP MSP430FR2422IPW16
